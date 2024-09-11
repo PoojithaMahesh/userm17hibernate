@@ -9,8 +9,8 @@ public class SaveUser {
 public static void main(String[] args) {
 	User user=new User();
 	user.setId(1);
-	user.setName("Poojitha");
-	user.setAddress("Bangalore");
+	user.setName("PoojithaJM");
+	user.setAddress("Mysore");
 	
 	
 	
