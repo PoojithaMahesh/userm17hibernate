@@ -8,8 +8,7 @@ import javax.persistence.Persistence;
 public class SaveUser {
 public static void main(String[] args) {
 	User user=new User();
-	user.setId(1);
-	user.setName("PoojithaJM");
+	user.setName("sunil");
 	user.setAddress("Mysore");
 	
 	
